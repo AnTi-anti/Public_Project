@@ -12,3 +12,8 @@ It has such settings as foreground color, font style, background color which can
 More details http://www.codeproject.com/Articles/161871/Fast-Colored-TextBox-for-syntax-highlighting
 
 Nuget package https://www.nuget.org/packages/FCTB/
+
+* 现已完美支持中文
+* 原作者地址：https://github.com/PavelTorgashov/FastColoredTextBox
+* 整个项目压缩包：https://gakkiwife.lanzouw.com/iMIGXz6lrnc
+
