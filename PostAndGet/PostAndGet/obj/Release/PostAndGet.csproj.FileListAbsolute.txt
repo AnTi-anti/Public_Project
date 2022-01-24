@@ -1,0 +1,9 @@
+E:\test\c#\PostAndGet\PostAndGet\bin\Release\PostAndGet.exe.config
+E:\test\c#\PostAndGet\PostAndGet\bin\Release\PostAndGet.exe
+E:\test\c#\PostAndGet\PostAndGet\bin\Release\PostAndGet.pdb
+E:\test\c#\PostAndGet\PostAndGet\obj\Release\PostAndGet.PostAndGetForm.resources
+E:\test\c#\PostAndGet\PostAndGet\obj\Release\PostAndGet.Properties.Resources.resources
+E:\test\c#\PostAndGet\PostAndGet\obj\Release\PostAndGet.csproj.GenerateResource.cache
+E:\test\c#\PostAndGet\PostAndGet\obj\Release\PostAndGet.csproj.CoreCompileInputs.cache
+E:\test\c#\PostAndGet\PostAndGet\obj\Release\PostAndGet.exe
+E:\test\c#\PostAndGet\PostAndGet\obj\Release\PostAndGet.pdb
